@@ -1,0 +1,4 @@
+close friend name, favorite movie, favorite animal
+Ham, Frozen 2, dog
+Atom, Sword Art Online, dog
+Poom, 1917, cat
